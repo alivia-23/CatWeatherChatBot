@@ -1,4 +1,4 @@
-This project is as part of my Coursera Building Serverless Application in AWS course project.
+This project is as part of my **Coursera Building Serverless Application in AWS** course project.
 This application is hosted to acquire knowledge and gain hands on learning on AWS platform by following the coursera learning lecture and demo project.
 
 # Static Website
