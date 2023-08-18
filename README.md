@@ -1,6 +1,7 @@
 # Static Website
 
 The goal of this website project is to acquire hands on learning of **Building Serverless Applications in AWS**
+
 My learning Goals are :-
 1. Create a simple chatbot using the Lex Console
 2. Upload our website to S3
