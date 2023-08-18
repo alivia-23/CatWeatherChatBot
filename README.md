@@ -1,28 +1,16 @@
-This project is as part of my **Coursera Building Serverless Application in AWS** course project.
-This application is hosted to acquire knowledge and gain hands on learning on AWS platform by following the coursera learning lecture and demo project.
-
 # Static Website
 
-The goal of this website is to support the learning of the Building Serverless Applications course.
+The goal of this website project is to acquire hands on learning of **Building Serverless Applications in AWS**
+My learning Goals are :-
+1. Create a simple chatbot using the Lex Console
+2. Upload our website to S3
+3. Create a content delivery network and lock down S3
+4. Build an API Gateway mock with CORS
+5. Build a Lambda mock, use IAM, push logs to CloudWatch
+6. Create and seed a database with weather data
+7. Enhance the lambda so it can query the database
+8. Build new text based data driven application
+9. Create a Lex proxy using Lambda
+10. Enhance API Gateway to use Lex proxy
+11. Build new voice web application
 
-
-Thought the lab you may need to edit a config file. Simpy replace the `null` with with your content.
-
-For example inside config.json you would replace
-
-```JavaScript
-		var G_API_GATEWAY_URL_STR = null;
-```
-
-with
-
-```JavaScript
-
-		var G_API_GATEWAY_URL_STR = "https://eois2fhvse.execute-api.us-east-1.amazonaws.com/test"
-```
-according to the excercise guide.
-
-
-Then push that back up to the root of the website.
-
-Eveything else you need to know about this excercise is in the excercise guide.
