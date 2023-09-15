@@ -11,7 +11,7 @@ My learning Goals are :-
 6. Create and seed a database with weather data
 7. Enhance the lambda so it can query the database
 8. Build new text based data driven application
-9. Create a Lex proxy using Lambda
-10. Enhance API Gateway to use Lex proxy
-11. Build new voice web application
+
+Show View
+KittyWeatherBot
 
