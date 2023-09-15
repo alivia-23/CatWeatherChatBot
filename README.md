@@ -12,6 +12,6 @@ My learning Goals are :-
 7. Enhance the lambda so it can query the database
 8. Build new text based data driven application
 
-Show View
 KittyWeatherBot
+<h1>Live Demo</h1><a href="https://alivia-23.github.io/Tic-Tac-Toe-Game/">KittyWeatherBot</a><br>
 
