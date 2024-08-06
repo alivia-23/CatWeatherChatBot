@@ -1,6 +1,5 @@
 /*
 	Requires G_API_GATEWAY_URL_STR in the window object, 
-	see readme and exercise guide
 */
 var 
 	$button = $("button"),
