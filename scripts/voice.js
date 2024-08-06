@@ -1,5 +1,4 @@
 var 
-	//We will change this in stage 2
 
 	// https://mgi77ltecc.execute-api.us-east-1.amazonaws.com/test",
 	//cores enabled sample post
